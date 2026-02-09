@@ -1,0 +1,2 @@
+[ 2026-02-08 18:03:34,269 ] project_logger - INFO - Logger initialized successfully!
+[ 2026-02-08 18:03:34,270 ] project_logger - INFO - Hello from another module!
